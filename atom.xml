@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-10T02:16:53.524Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生活是一场旅行</title>
+    <link href="http://example.com/2022/04/10/sheng-huo-shi-yi-chang-lu-xing/"/>
+    <id>http://example.com/2022/04/10/sheng-huo-shi-yi-chang-lu-xing/</id>
+    <published>2022-04-10T02:16:53.000Z</published>
+    <updated>2022-04-10T02:16:53.524Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>澣云的第一篇文章</title>
+    <link href="http://example.com/2022/04/10/wan-yun-de-di-yi-pian-wen-zhang/"/>
+    <id>http://example.com/2022/04/10/wan-yun-de-di-yi-pian-wen-zhang/</id>
+    <published>2022-04-10T01:46:27.000Z</published>
+    <updated>2022-04-10T01:46:27.980Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://example.com/2022/04/09/article-title/"/>
+    <id>http://example.com/2022/04/09/article-title/</id>
+    <published>2022-04-09T15:53:59.000Z</published>
+    <updated>2022-04-09T15:53:59.679Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/04/09/hello-world/"/>
+    <id>http://example.com/2022/04/09/hello-world/</id>
+    <published>2022-04-09T14:35:11.972Z</published>
+    <updated>2022-04-09T14:34:10.975Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
