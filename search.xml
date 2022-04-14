@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2022/04/12/spss/"/>
-      <url>/2022/04/12/spss/</url>
-      
-        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">#spss中的参数估计总结</span><br><span class="line">##在做题时先判断是大样本还是小样本</span><br><span class="line">- 大样本</span><br><span class="line">- 服从正态分布</span><br><span class="line">- 样本标准差已知</span><br><span class="line">- 样本标准差未知</span><br></pre></td></tr></tbody></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>优化git加载速度</title>
       <link href="/2022/04/10/you-hua-git-jia-zai-su-du/"/>
       <url>/2022/04/10/you-hua-git-jia-zai-su-du/</url>
