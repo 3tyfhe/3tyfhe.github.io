@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-10T13:20:43.638Z</updated>
+  <updated>2022-04-17T15:37:16.140Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spss参数估计</title>
+    <link href="http://example.com/2022/04/16/spss-can-shu-gu-ji/"/>
+    <id>http://example.com/2022/04/16/spss-can-shu-gu-ji/</id>
+    <published>2022-04-16T14:24:17.000Z</published>
+    <updated>2022-04-17T15:37:16.140Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一个总体均值的估计&quot;&gt;&lt;a href=&quot;#一个总体均值的估计&quot; class=&quot;headerlink&quot; title=&quot;一个总体均值的估计&quot;&gt;&lt;/a&gt;一个总体均值的估计&lt;/h2&gt;&lt;p&gt;总体均值在一定置信水平下的置信区间一般表示为: $ \overline</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>优化git加载速度</title>
